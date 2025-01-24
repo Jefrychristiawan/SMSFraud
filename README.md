@@ -1,4 +1,4 @@
-# 📌 SMS Fraud Classification in Indonesia using Machine Learning & Deep Learning
+# 📌 Classifying Fraud in Indonesia Short Message Service (SMS) Using Machine Learning and Deep Learning
 
 ## 📖 Overview
 This project investigates the classification of Indonesian SMS messages into **Fraud**, **Advertisement**, and **Normal** categories using various **machine learning** and **deep learning** models. The research evaluates the performance of models like **Hybrid CNN-LSTM, Naïve Bayes, Support Vector Machine (SVM), and IndoBERT embeddings**, with **ensemble learning** achieving the best results.
